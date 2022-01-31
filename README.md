@@ -8,7 +8,7 @@ The application (REST APIs) serves as a platform for users to ask and answer que
 
 ### Features:
 
-Every write operation is authenticated by JWT.
+Every operation is authenticated by JWT.
 
 - User Registration
 - User Login
